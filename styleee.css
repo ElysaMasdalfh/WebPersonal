@@ -1,0 +1,103 @@
+/* Gaya untuk navbar */
+.navbar {
+    margin-bottom: 0;
+  }
+  
+  .navbar-inverse .navbar-brand {
+    color: #fff;
+  }
+  
+  .navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+  }
+  
+  .navbar-inverse .navbar-nav > li > a:hover,
+  .navbar-inverse .navbar-nav > li > a:focus {
+    background-color: #cf6a87;
+  }
+  
+  /* Gaya untuk kolom 1 */
+  .col-md-4:nth-child(1) {
+    background-color: #ccae62;
+    padding: 20px;
+  }
+  
+  /* Gaya untuk kolom 2 */
+  .col-md-4:nth-child(2) {
+    padding: 20px;
+  }
+  
+  /* Gaya untuk kolom 3 */
+  .col-md-4:nth-child(3) {
+    padding: 20px;
+  }
+  
+  /* Gaya untuk tombol submit */
+  .btn-default {
+    background-color: #333;
+    color: #fff;
+    border: none;
+  }
+  
+  .btn-default:hover,
+  .btn-default:focus {
+    background-color: #555;
+  }
+
+  #header{
+    width: 100%;
+    height: 100px;
+    background: #fdcb6e;
+    text-align: center;
+}
+  
+  body {
+    background-image: url('BGF.png'); /* Ganti 'background.jpg' dengan URL atau path ke gambar latar belakang Anda */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Ini membuat gambar tetap berada di latar belakang saat menggulir halaman */
+  }
+  
+  /* Gaya untuk elemen lainnya tetap berlaku */
+  .navbar {
+    margin-bottom: 0;
+  }
+  
+  .navbar-inverse .navbar-brand {
+    color: #fff;
+  }
+  
+  .navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+  }
+  
+  .navbar-inverse .navbar-nav > li > a:hover,
+  .navbar-inverse .navbar-nav > li > a:focus {
+    background-color: #333;
+  }
+  
+  .col-md-4:nth-child(1) {
+    background-color: #ffcccc;
+    padding: 20px;
+  }
+  
+  .col-md-4:nth-child(2) {
+    padding: 20px;
+  }
+  
+  .col-md-4:nth-child(3) {
+    background-color: #ffcccc;
+    padding: 20px;
+  }
+  
+  .btn-default {
+    background-color: #333;
+    border: none;
+  }
+  
+  .btn-default:hover,
+  .btn-default:focus {
+    background-color: #555;
+  }
+  
